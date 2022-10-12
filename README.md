@@ -6,9 +6,7 @@
 
 ### **About me**
 - 🔭 I'm currently working on **C++, Data Structures & Algorithms and acquiring new skills.**
-
 - 🌱 I’m currently learning **backend technologies.**
-
 - 👯 I’m looking to collaborate on **C++, Data Structures and Algorithms.**
 
 ### **Languages and Tools:**
