@@ -21,7 +21,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp; </p>
 
 ### **Connect with me:**
-- Email - [**himanshi.mca20.du@gmail.com**](himanshi.mca20.du@gmail.com)
+- Email - [**himanshi.mca20.du@gmail.com**](mailto:himanshi.mca20.du@gmail.com)
 - LinkedIn - [**@himanshi-gupta**](https://www.linkedin.com/in/himanshi-gupta-b341531a4/)
 
 <p align="left"> 
